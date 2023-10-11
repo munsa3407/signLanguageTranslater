@@ -83,4 +83,14 @@
 ##
 
 
+프로젝트 사용 환경 및 라이브러리
+
+[![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-0.8.3%2B-brightgreen)](https://google.github.io/mediapipe/)
+[![Flask](https://img.shields.io/badge/Flask-2.0%2B-blue)](https://flask.palletsprojects.com/en/2.0.x/)
+[![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS](https://img.shields.io/badge/CSS-3-blueviolet)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Hangul_Utils](https://img.shields.io/badge/Hangul_Utils-1.1-green)](https://pypi.org/project/hangul-utils/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-yellow)](https://opencv.org/)
+
 
