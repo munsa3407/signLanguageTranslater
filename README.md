@@ -50,8 +50,9 @@
 1. **데이터셋 생성:**
    - 프로젝트 루트 디렉토리에서 `dataset_maker.py`를 실행하여 데이터셋을 생성할 수 있습니다.
      ```
-     python dataset_maker.py
+     python DataSet_Maker.py
      ```
+     데이터셋은 txt 파일로 생성되며, 차후 데이터셋을 이용하기 위해 txt 파일명을 바꿔주거나 코드 속 txt 파일을 바꿔주면 됩니다.
 
 2. **영어 수화 프로그램 실행:**
    - 데이터셋이 만들어진 후(dataSetEnglish.txt), `sign_language_english_20230628.py`를 실행하여 영어 수화 프로그램을 시작할 수 있습니다.
